@@ -4,3 +4,4 @@ otra line mas de juancparis
 merge
 hacer un git fetch un git merge
 otro un git fetch un git merge
+frist conflit with pull
