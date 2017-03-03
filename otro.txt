@@ -2,3 +2,4 @@ otro juancparis
 
 otra line mas de juancparis
 merge
+hacer un git fetch un git merge
